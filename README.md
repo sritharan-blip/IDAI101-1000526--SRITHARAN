@@ -1,4 +1,4 @@
-# ParentConnect AI — O-Grade Production Delivery
+# ParentConnect AI 
 
 This package is a full production refactor of the uploaded
 `ParentConnectAI-EnhancedOG1.zip`, delivered as 5 modules.
