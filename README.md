@@ -6,6 +6,8 @@ It runs **entirely inside Dialogflow. There is no webhook and no server to host.
 
 **LIVE CHATBOT LINK**:  https://sritharan-blip.github.io/IDAI101-1000526--SRITHARAN/
 
+**CHATBOT TESTING VIDEO IN GOOGLE DRIVE LINK**: https://drive.google.com/file/d/1gdxxEMITjQ6rKR_mA0VAjnT7zxecVvNj/view?usp=sharing
+
 | | |
 |---|---|
 | Platform | Dialogflow ES, shown in the Dialogflow Messenger widget |
