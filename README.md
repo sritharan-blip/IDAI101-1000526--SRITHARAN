@@ -3,7 +3,8 @@
 A Dialogflow ES assistant that answers parents' questions about their child's school with **detailed, concrete replies and tap-to-answer pills**: attendance, exam timetable, results, a full report card, fees, transport, cafeteria, health, meetings and more.
 
 It runs **entirely inside Dialogflow. There is no webhook and no server to host.**
-LIVE CHATBOT LINK: https://sritharan-blip.github.io/IDAI101-1000526--SRITHARAN/
+
+**LIVE CHATBOT LINK**: https://sritharan-blip.github.io/IDAI101-1000526--SRITHARAN/
 
 | | |
 |---|---|
