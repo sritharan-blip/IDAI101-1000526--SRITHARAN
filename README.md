@@ -4,7 +4,7 @@ A Dialogflow ES assistant that answers parents' questions about their child's sc
 
 It runs **entirely inside Dialogflow. There is no webhook and no server to host.**
 
-**LIVE CHATBOT LINK**: https://sritharan-blip.github.io/IDAI101-1000526--SRITHARAN/
+**LIVE CHATBOT LINK**:  https://sritharan-blip.github.io/IDAI101-1000526--SRITHARAN/
 
 | | |
 |---|---|
